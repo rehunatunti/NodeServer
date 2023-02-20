@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>Node Server Application</title>
+</head>
+<body>
+    <div class="header">
+        <h1>Haagan Vihervarasto</h1>
+    </div>
+        
+    <div id="nav">
+        <button onclick="home()">Etusivu</button>
+        <button onclick="getInfo()">Tietoa meistä</button>
+        <button onclick="getStaff()">Osaajamme</button>
+        <button onclick="getContact()">Yhteystiedot</button>
+        <button id="finnish">FI</button>
+        <button id="english">EN</button>
+    </div>
+    <div id="main"></div>
+
+
+    <footer>
+        -----------------------------------------<br>
+        Ari Huttunen - 2023</footer>
+
+    <script src="./front.js"></script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+[{"id":1, "name": "Ari Huttunen", "phone": "0507634825", "address": "Kuparikuja 2", "email": "ari.huttunen@haviva.fi" },
+{"id":2, "name": "Teppo Hitsaaja", "phone": "0507384629", "address": "Hopeatie 1", "email": "teppo.hitsaaja@haviva.fi"},
+{"id":3, "name": "Jaana Ritakorpi", "phone": "0503581962", "address": "Kantelettarenkuja 11", "email": "jaana.ritakorpi@haviva.fi" },
+{"id":4, "name": "Helena Tillander", "phone": "0504765213", "address": "Näyttelijäntie 3", "email": "helena.tillander@haviva.fi" },
+{"id":5, "name": "Kimmo Terva", "phone": "0504765213", "address": "Thalianaukio 6", "email": "kimmo.terva@haviva.fi" }]

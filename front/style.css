@@ -1,0 +1,40 @@
+.header{
+    background-image: url(Headertausta.jpg);
+    background-color: rgba(255, 255, 255, 0.527);
+    background-blend-mode: overlay;
+    padding:30px;
+    text-align: center;
+    font-size: 20px;
+}
+body{
+    font-family: 'Montserrat', sans-serif; /* tämä haettu fonts.google.com, generoi linkin, jonka voi kopsata html:ään tai jopa ladata fonttikirjaston. */
+}
+button{
+    font-family: 'Montserrat', sans-serif;
+    padding: 5px;
+    padding-left: 5%;
+    padding-right: 5%;
+
+}
+thead{
+    background-color: lightgray;
+}
+table{
+    width: fit-content;
+    column-width: 50px;
+}
+th{
+    padding: 5px;
+}
+td{
+    padding: 5px;
+}
+footer{
+    position: fixed;
+    left: 10px;
+    bottom: 5px;
+    font-size: smaller;
+}
+img {
+max-height: 200px;
+}
